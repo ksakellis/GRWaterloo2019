@@ -1,0 +1,34 @@
+[
+  {
+    "insurance_id": "1",
+    "doctor_id": "5"
+  },
+  {
+    "insurance_id": "1",
+    "doctor_id": "4"
+  },
+  {
+    "insurance_id": "2",
+    "doctor_id": "1"
+  },
+  {
+    "insurance_id": "2",
+    "doctor_id": "3"
+  },
+  {
+    "insurance_id": "3",
+    "doctor_id": "4"
+  },
+  {
+    "insurance_id": "4",
+    "doctor_id": "5"
+  },
+  {
+    "insurance_id": "5",
+    "doctor_id": "5"
+  },
+  {
+    "insurance_id": "5",
+    "doctor_id": "2"
+  }
+]

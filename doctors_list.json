@@ -1,0 +1,38 @@
+[
+  {
+    "doctor_id": "1",
+    "first_name": "Doctor",
+    "last_name": "Annie",
+    "specialty": ["General Practice"],
+    "address": "198 Knickerbocker rd, tenafly NJ 07670"
+  },
+  {
+    "doctor_id": "2",
+    "first_name": "Oz",
+    "last_name": "Houser",
+    "specialty": ["Anesthesiology", "Family Practice"],
+    "address": "360 Harrison St, San Francisco, CA 94103"
+  },
+  {
+    "doctor_id": "3",
+    "first_name": "Oz",
+    "last_name": "Hall",
+    "specialty": ["Dermatology"],
+    "address": "360 Harrison St, San Francisco,CA 94103"
+  },
+  {
+    "doctor_id": "4",
+    "first_name": "Amy",
+    "last_name": "Winfrey",
+    "specialty": ["Family Practice", "Neurology"],
+    "address": "1300 Lawton St Apt 301, San Francisco, CA 94122"
+  },
+  {
+    "doctor_id": "5",
+    "first_name": "Doogie",
+    "last_name": "Houser",
+    "specialty": ["Internal Medicine"],
+    "address": "2325 Washington Rd, San francisco, CA 94103"
+  }
+]
+
